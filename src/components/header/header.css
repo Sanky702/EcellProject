@@ -1,0 +1,36 @@
+/* .header {
+    /* margin-top: 60px; */
+  /* } */ 
+  
+  .headerTitles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #444;
+  }
+  
+  .headerTitleSm {
+    position: absolute;
+    top: 18%;
+    padding-bottom: 20px;
+    font-size: 30px;
+    flood-color: cadetblue;
+    color: bisque;
+  }
+  
+  .headerTitleLg {
+    position: absolute;
+    top: 20%;
+    padding-top: 20px;
+    font-size: 80px;
+    color: floralwhite;
+  }
+  
+  .headerImg {
+    width: 100%;
+    height: 650px;
+    /* margin-top: 80px; */
+    object-fit: cover;
+    top: 0ch;
+  }
