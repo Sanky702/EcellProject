@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EcellProject/static/css/main.b2271ecd.css",
+    "main.js": "/EcellProject/static/js/main.e386c5e2.js",
+    "static/js/787.a361b86b.chunk.js": "/EcellProject/static/js/787.a361b86b.chunk.js",
+    "index.html": "/EcellProject/index.html",
+    "main.b2271ecd.css.map": "/EcellProject/static/css/main.b2271ecd.css.map",
+    "main.e386c5e2.js.map": "/EcellProject/static/js/main.e386c5e2.js.map",
+    "787.a361b86b.chunk.js.map": "/EcellProject/static/js/787.a361b86b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2271ecd.css",
+    "static/js/main.e386c5e2.js"
+  ]
+}
